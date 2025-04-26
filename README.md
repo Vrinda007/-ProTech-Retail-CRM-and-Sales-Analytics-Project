@@ -83,6 +83,4 @@ It showcases:
 
 ---
 
-> "Transforming Retail Relationships with Data-Driven Insights and CRM Excellence." 🚀
-
 Thank you for visiting! 
